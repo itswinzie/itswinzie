@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/itswinzie?tab=followers"><img src="https://img.shields.io/github/followers/itswinzie?label=Followers&style=for-the-badge"></a>
-  <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge"></a>
+  <a href="https://www.tiktok.com/@akebi__?_r=1&_t=ZS-91RyVGPsdWK/"><img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge"></a>
   <a href="https://itswinzie.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
 </p>
 
