@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Iwan+%7C+Computer+Engineering+Student;AI+%26+Electronics+Builder;Raspberry+Pi+%26+Automation+Enthusiast;Creator+of+DCAS+%26+DCUT" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Iwan+%7C+Computer+Engineering+Student;AI+%26+Electronics+Enthusiast;IoT+%26+Robotics+Explorer;Creator+of+AI-DCAS+%26+Kaira" />
 </p>
 
 <p align="center">
@@ -13,27 +13,23 @@
 
 # 🚀 About Me
 
-I'm a Computer Engineering student who loves building **AI-powered electronics**,  
-especially using **Raspberry Pi, Mini PC setups, sensors, automation**, and anything that combines  
-software + hardware into something real and useful.
+I'm a Computer Engineering student passionate about **AI, electronics, IoT, and robotics**.  
+I love building projects that combine **hardware and software** to solve real problems.
 
 Currently focusing on:
 
-- **AI-DCAS V2** – Upgraded face-recognition attendance system  
-- **DCUT** – Personal discipline system (automation + life tracking)  
-- **DIY Launchpad** – Custom MIDI pad with LED animations  
-- **Electronics Repair** – Laptops, microcontrollers, and DIY mods  
+- **AI-DCAS** – Smart face-recognition attendance system  
+- **Kaira** – AI assistant for automation and daily tasks  
 
-My approach is simple:  
-**Build things that actually work • Fail fast • Improve • Repeat**
+I’m always exploring **AI models, robotics, and IoT devices**, and enjoy creating solutions that are practical and fun.
 
 ```js
 const iwan = {
     location: "🇲🇾 Malaysia",
-    currentFocus: "AI-DCAS V2 + DCUT Discipline System",
-    interests: ["Artificial Intelligence", "Electronics", "Automation", "Raspberry Pi"],
-    funFact: "I fix broken laptops for fun",
-    motto: "Discipline builds the engineer."
+    currentFocus: "AI-DCAS V2 development",
+    interests: ["Artificial Intelligence", "Electronics", "IoT", "Robotics", "Automation"],
+    funFact: "I enjoy fixing electronics and building small robots",
+    motto: "Engineer with discipline, code with purpose."
 }
 ```
 
@@ -43,27 +39,27 @@ const iwan = {
 
 | Category | Details |
 |---------|---------|
-| 🎯 Current Focus | AI-DCAS V2 & Raspberry Pi automation |
-| 🌱 Learning | Advanced Python, embedded hardware, deep learning basics |
-| 🔥 Status | Actively building new AI-electronics projects |
-| 🤝 Open To | IoT, AI, automation & DIY electronics collaborations |
-| 📍 Specialties | Raspberry Pi • OpenCV • Python • Automation • Web UI |
+| 🎯 Current Focus | AI-DCAS V2 & AI assistant Kaira |
+| 🌱 Learning | Advanced Python, embedded hardware, AI integration |
+| 🔥 Status | Actively building AI and electronics projects |
+| 🤝 Open To | AI, IoT, Robotics, and automation collaborations |
+| 📍 Specialties | Python • OpenCV • Raspberry Pi • Microcontrollers • Robotics |
 
 ---
 
 # 💻 Tech Stack
 
 ### 🧠 AI & Computer Vision  
-Python • OpenCV • face_recognition • TensorFlow (beginner)
+Python • OpenCV • face_recognition • TensorFlow (learning)
 
 ### ⚙️ Backend & Systems  
 Flask • FastAPI • Socket Programming • Linux • SystemD
 
 ### 🧩 Hardware & Embedded  
-Raspberry Pi • ESP32 • Arduino • Sensors • Relays • HDMI/USB Tracing
+Raspberry Pi • ESP32 • Arduino • Sensors • Relays
 
 ### 🎨 Frontend  
-HTML • CSS • JavaScript • Bootstrap • simple Web UIs
+HTML • CSS • JavaScript • simple Web UIs
 
 ### 🗄 Databases  
 SQLite • MySQL (basic)
@@ -83,38 +79,26 @@ Git • VS Code • Raspberry Pi OS • Docker (learning)
 - SQLite database  
 - Custom GUI + Web UI  
 - Error-handling & fallback logic  
-- Offline-capable
+- Offline-capable  
+- Preparing upgrades for **AI-DCAS V2**
 
 ---
 
-## 🔥 **DCUT — Discipline Tracking System**
-A personal life-discipline framework built around:  
-**minimalism, consistency, morning routine, health tracking, and focused work**
-
-Plans:  
-- Add data visualization  
-- Habit tracker  
-- DCUT Dashboard  
-- AI reminders
+## 🔥 **Kaira – AI Assistant**
+An AI assistant designed for automation and daily task management.  
+**Focus:**  
+- IoT control  
+- Task reminders & notifications  
+- Integration with custom projects  
+- Expandable for AI experimentation  
 
 ---
 
-## 🎶 DIY Launchpad Project
-Custom MIDI pad for music & fun experiments.
-
-**Features:**  
-- RGB LED animations  
-- MIDI output  
-- Custom sound triggers  
-- 3D printed case (planned)
-
----
-
-## 🔧 Repair & Electronics Mods
-- Laptop motherboard reflow/diagnostic  
-- Raspberry Pi custom enclosures  
-- Camera streaming pipeline Pi → Mini PC  
-- Sensor-based automation
+## 🔧 Electronics & Robotics
+- Building sensor-based automation systems  
+- Raspberry Pi & Arduino experiments  
+- AI-powered small robots  
+- IoT devices & prototyping  
 
 ---
 
@@ -133,33 +117,30 @@ Custom MIDI pad for music & fun experiments.
 # 🎯 2025 Goals & Roadmap
 
 ### **Q1 2025**
-- AI-DCAS V2 prototype  
-- Raspberry Pi headless automation  
-- Build DCUT Dashboard
+- Upgrade AI-DCAS to V2  
+- Explore Kaira capabilities  
+- AI & robotics experimentation  
 
 ### **Q2 2025**
-- DIY Launchpad (electronics + firmware)  
-- DCUT health tracking  
-- One open-source mini project
+- Integrate IoT features into AI-DCAS/Kaira  
+- Expand hardware projects  
+- Open-source contribution  
 
 ### **Q3 2025**
-- AI-DCAS full web interface  
-- Smart home integration (experimental)
+- Improve AI assistant functionalities  
+- Deploy more Raspberry Pi automation systems  
 
 ### **Q4 2025**
-- Portfolio website v2  
-- Internship project at Cytron  
-- Publish at least 3 useful open-source tools
+- Portfolio website v2 with AI projects showcase  
+- Publish at least 2 useful open-source tools  
 
 ---
 
 # 🤝 Let’s Connect
 
-**Portfolio:** https://iwanDCUT.github.io  
-**Email:** (insert)  
-**Twitter:** (insert)
+**Portfolio:** comming soon  
+**Email:** irwanzakaria134@gmail.com
 
 ---
 
-<p align="center">⭐ Thanks for visiting! Stay disciplined, keep building. ⭐</p>
-
+<p align="center">⭐ Thanks for visiting! Keep building, stay curious. ⭐</p>
