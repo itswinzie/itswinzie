@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iwanDCUT?tab=followers"><img src="https://img.shields.io/github/followers/iwanDCUT?label=Followers&style=for-the-badge"></a>
+  <a href="https://github.com/itswinzie?tab=followers"><img src="https://img.shields.io/github/followers/itswinzie?label=Followers&style=for-the-badge"></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge"></a>
-  <a href="https://iwanDCUT.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
+  <a href="https://itswinzie.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
 </p>
 
 ---
@@ -105,11 +105,11 @@ An AI assistant designed for automation and daily task management.
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwanDCUT&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itswinzie&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwanDCUT&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itswinzie&theme=tokyonight" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ An AI assistant designed for automation and daily task management.
 
 # 🤝 Let’s Connect
 
-**Portfolio:** comming soon  
+**Portfolio:** coming soon  
 **Email:** irwanzakaria134@gmail.com
 
 ---
