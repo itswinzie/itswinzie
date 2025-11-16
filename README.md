@@ -1,11 +1,11 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Iwan+%7C+Computer+Engineering+Student;AI+%26+Electronics+Enthusiast;IoT+%26+Robotics+Explorer;Creator+of+AI-DCAS+%26+Kaira" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Winzie+%7C+Computer+Engineering+Student;AI+%26+Electronics+Enthusiast;IoT+%26+Robotics+Explorer;Creator+of+AI-DCAS+%26+Kaira" />
 </p>
 
 <p align="center">
   <a href="https://github.com/itswinzie?tab=followers"><img src="https://img.shields.io/github/followers/itswinzie?label=Followers&style=for-the-badge"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge"></a>
+  <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge"></a>
   <a href="https://itswinzie.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"></a>
 </p>
 
