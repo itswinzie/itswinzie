@@ -138,7 +138,7 @@ An AI assistant designed for automation and daily task management.
 
 # 🤝 Let’s Connect
 
-**Portfolio:** coming soon  
+**Portfolio:** itswinzie.github.io  
 **Email:** irwanzakaria134@gmail.com
 
 ---
