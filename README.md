@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Winzie+%7C+Computer+Engineering+Student;AI+%26+Electronics+Enthusiast;IoT+%26+Robotics+Explorer;Creator+of+AI-DCAS+%26+Kaira" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+Winzie+%7C+Computer+Engineering+Student;AI+%26+Electronics+Enthusiast;IoT+%26+Robotics+Explorer;Creator+of+AI-DCAS+%26+K.A.I.R.A" />
 </p>
 
 <p align="center">
